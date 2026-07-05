@@ -3,6 +3,7 @@ export const fontFamily = {
   medium: 'Sora-Medium',
   semibold: 'Sora-SemiBold',
   bold: 'Sora-Bold',
+  extrabold: 'Sora-ExtraBold',
 };
 
 export const fontSize = {
